@@ -1,0 +1,13 @@
+bs4
+geojson
+requests
+js2py
+reverse_geocode
+esprima
+pyppeteer
+deepparse
+sortedcontainers
+phpserialize
+geopy
+matplotlib
+basemap
